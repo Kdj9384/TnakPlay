@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{A39EBB9C-3C5E-B6E6-E528-EFC8CB58F9B1}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Tnak/Scripts/nextScene.cs">
+    <Files>
+      <File FileName="Assets/Tnak/Scripts/BulletDestroy.cs" Line="18" Column="5" />
+      <File FileName="Assets/Tnak/Scripts/Player1Con.cs" Line="8" Column="30" />
+      <File FileName="Assets/Tnak/Scripts/Player2Con.cs" Line="20" Column="37" />
+      <File FileName="Assets/Tnak/Scripts/nextScene.cs" Line="15" Column="42" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.New_2202D_220Unity_220Project PreferredExecutionTarget="Unity.Editor" />
+  <MultiItemStartupConfigurations />
+</Properties>
